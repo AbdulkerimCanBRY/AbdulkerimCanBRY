@@ -1,14 +1,6 @@
-<div align="right">
-  <a href="https://open.spotify.com/user/ejhbuv0iagr9btp0oryaq3yp1?si=g2UiJ-aFQk6azq4_eK2nSw&nd=1&dlsi=ad4a5ccc4e794f42">
-    <img src="https://github-readme-currently-playing-on-spotify.vercel.app/api?user=ejhbuv0iagr9btp0oryaq3yp1?si=g2UiJ-aFQk6azq4_eK2nSw&nd=1&dlsi=ad4a5ccc4e794f42&theme=dark&show_private=true" alt="Spotify Now Playing" width="285"/>
-  </a>
-  
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=AbdulkerimCanBRY&label=Profile%20views&color=373737&style=flat-square" />
-</div>
+<img align="right" src="https://komarev.com/ghpvc/?username=AbdulkerimCanBRY&label=Profile%20views&color=373737&style=flat-square" />
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Matrix Code GIF" width="400"/>
   <h1>Hi, I'm Abdulkerim! 👋</h1>
 </div>
 
@@ -26,12 +18,12 @@ Let me first introduce myself. I'm Abdulkerim. I'm 19 years old. I'm a passionat
   <a href="https://twitter.com/Abdulkerim22Can" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-   
+  &nbsp;
   <a href="https://instagram.com/abdulkerim.cann" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <br>
-  <a href="https://steamcommunity.com/id/https://steamcommunity.com/profiles/76561198874677239/" target="_blank">
+  <a href="https://steamcommunity.com/profiles/76561198874677239/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
   </a>
 </p>
@@ -62,8 +54,16 @@ Let me first introduce myself. I'm Abdulkerim. I'm 19 years old. I'm a passionat
 
 ---
 
-### 🔥 My GitHub Streak
+### 🎧 I'm Listening Right Now
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ejhbuv0iagr9btp0oryaq3yp1&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ejhbuv0iagr9btp0oryaq3yp1&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
 
+---
+
+### 🔥 My GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulkerimCanBRY&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
