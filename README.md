@@ -22,7 +22,7 @@ Let me first introduce myself. I'm Abdulkerim. I'm 19 years old. I'm a passionat
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <br>
-  <a href="https://steamcommunity.com/id/76561198874677239/" target="_blank">
+  <a href="https://steamcommunity.com/profiles/76561198874677239/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
   </a>
   &nbsp;
