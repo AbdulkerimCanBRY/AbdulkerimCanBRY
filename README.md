@@ -3,8 +3,8 @@
 <div align="center">
   <img 
     align="center" 
-    width="60%" 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&center=true&vCenter=true&multiline=true&width=435&height=30&lines=Hi,+I'm+Abdulkerim."
+    width="100%" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&center=true&vCenter=true&multiline=true&width=700&height=45&lines=Hi,+I'm+Abdulkerim."
   >
 </div>
 
