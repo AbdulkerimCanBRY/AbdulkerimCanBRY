@@ -57,7 +57,7 @@ Let me first introduce myself. I'm Abdulkerim. I'm 19 years old. I'm a passionat
 ### 🎧 I'm Listening Right Now
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ejhbuv0iagr9btp0oryaq3yp1&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ejhbuv0iagr9btp0oryaq3yp1&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.onrender.com/card?uid=ejhbuv0iagr9btp0oryaq3yp1&theme=elite">
   </a>
 </p>
 
