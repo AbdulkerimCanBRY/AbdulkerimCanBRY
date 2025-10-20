@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-Let me first introduce myself. I'm Abdulkerim. I'm 19 years old. I'm a passionate developer at the intersection of art and technology. I focus specifically on game development, 3D modeling, and web technologies. I love learning new things, solving problems, and bringing my ideas to life in the digital world.
+_Let me first introduce myself. I'm Abdulkerim. I'm 19 years old. I'm a passionate developer at the intersection of art and technology. I focus specifically on game development, 3D modeling, and web technologies. I love learning new things, solving problems, and bringing my ideas to life in the digital world._
 
 ---
 
