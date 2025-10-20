@@ -1,12 +1,11 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=AbdulkerimCanBRY&label=Profile%20views&color=373737&style=flat-square" />
 
 <div align="center">
-  <h1>Hi, I'm Abdulkerim! 👋</h1>
+<img align="center" width="60%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+%2C+I'am+Abdulkerim.">
 </div>
 
----
 
-### 👨‍💻 Hakkımda (About Me)
+### 👨‍💻 About Me
 
 Let me first introduce myself. I'm Abdulkerim. I'm 19 years old. I'm a passionate developer at the intersection of art and technology. I focus specifically on game development, 3D modeling, and web technologies. I love learning new things, solving problems, and bringing my ideas to life in the digital world.
 
