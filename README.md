@@ -1,9 +1,14 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=AbdulkerimCanBRY&label=Profile%20views&color=373737&style=flat-square" />
 
 <div align="center">
-<img align="center" width="60%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+%2C+I'am+Abdulkerim.">
+  <img 
+    align="center" 
+    width="60%" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&center=true&vCenter=true&multiline=true&width=435&height=30&lines=Hi,+I'm+Abdulkerim."
+  >
 </div>
 
+---
 
 ### 👨‍💻 About Me
 
