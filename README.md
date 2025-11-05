@@ -52,8 +52,9 @@ _Let me first introduce myself. I'm Abdulkerim. I'm 19 years old. I'm a passiona
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulkerimCanBRY&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulkerimCanBRY&langs_count=8&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulkerimCanBRY&show_icons=false&theme=midnight-purple&hide_border=true&bg_color=0D1117">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulkerimCanBRY&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0D1117">
+
 </p>
 
 ---
