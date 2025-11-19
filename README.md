@@ -1,3 +1,4 @@
+<div align="center">
 <img align="right" src="https://komarev.com/ghpvc/?username=AbdulkerimCanBRY&label=Profile%20views&color=373737&style=flat-square" />
 
 <div align="center">
@@ -5,6 +6,7 @@
     align="center" 
     width="100%" 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&center=true&vCenter=true&multiline=true&width=600&height=45&lines=Hi,+I'm+Abdulkerim."
+
   >
 </div>
 
@@ -12,7 +14,10 @@
 
 ### 👨‍💻 About Me
 
-_Let me first introduce myself. I'm Abdulkerim. I'm 19 years old. I'm a passionate developer at the intersection of art and technology. I focus specifically on game development, 3D modeling, and web technologies. I love learning new things, solving problems, and bringing my ideas to life in the digital world._
+  _Let me first introduce myself. I'm Abdulkerim. I'm 19 years old. I'm a passionate developer at the intersection of art and technology. I focus specifically on game development, 3D modeling, and web technologies. I love learning new things, solving problems, and bringing my ideas to life in the digital world._
+
+  <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="50px">
 
 ---
 
