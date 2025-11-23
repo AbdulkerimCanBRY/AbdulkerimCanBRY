@@ -35,8 +35,11 @@
   <a href="https://steamcommunity.com/profiles/76561198874677239/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abdulkerim-can-72b175381/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
-
 ---
 
 ### 🛠️ Languages and Tools
