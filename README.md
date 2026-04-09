@@ -59,15 +59,6 @@
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulkerimCanBRY&show_icons=false&theme=dark&hide_border=true&bg_color=0D1117">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulkerimCanBRY&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0D1117">
-
-</p>
-
----
-
 ### 🎧 I'm Listening Right Now
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ejhbuv0iagr9btp0oryaq3yp1&redirect=true">
