@@ -15,11 +15,16 @@
 
 ### 👨‍💻 About Me
 
-_Let me first introduce myself. I'm a 2nd-year Software Engineering student. I focus specifically on game development, 3D modeling, and software architectures using Java. I also write technical articles (like my piece on AI & Game Development for Huawei Student Developers) and love bringing my ideas to life in the digital world._
+_Let me first introduce myself. I'm a 2nd-year Software Engineering student. I focus specifically on game development, 3D modeling, and software architectures using Java. I also write technical articles and love bringing my ideas to life in the digital world._
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="50px">
 </div>
+
+---
+
+### 📝 Recent Articles & Publications
+* 📌 **Huawei Student Developers Türkiye:** [Yapay Zekâ ve Oyun Geliştirme](https://medium.com/) *(Medium)*
 
 ---
 
@@ -62,6 +67,15 @@ _Let me first introduce myself. I'm a 2nd-year Software Engineering student. I f
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulkerimCanBRY&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulkerimCanBRY&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
