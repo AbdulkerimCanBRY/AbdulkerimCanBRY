@@ -1,12 +1,13 @@
 <div align="center">
 <img align="right" src="https://komarev.com/ghpvc/?username=AbdulkerimCanBRY&label=Profile%20views&color=373737&style=flat-square" />
 
+<br><br>
+
 <div align="center">
   <img 
     align="center" 
     width="100%" 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&center=true&vCenter=true&multiline=true&width=600&height=45&lines=Hi,+I'm+Abdulkerim."
-
   >
 </div>
 
@@ -14,10 +15,11 @@
 
 ### 👨‍💻 About Me
 
-  _Let me first introduce myself. I'm Abdulkerim. I'm 19 years old. I'm a passionate developer at the intersection of art and technology. I focus specifically on game development, 3D modeling, and web technologies. I love learning new things, solving problems, and bringing my ideas to life in the digital world._
+_Let me first introduce myself. I'm a 2nd-year Software Engineering student. I focus specifically on game development, 3D modeling, and software architectures using Java. I also write technical articles (like my piece on AI & Game Development for Huawei Student Developers) and love bringing my ideas to life in the digital world._
 
-  <div align="center">
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="50px">
+</div>
 
 ---
 
@@ -46,26 +48,21 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" />
   <img src="https://img.shields.io/badge/Blender-E87300?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <br>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS"/>
 </p>
-
----
-
-### 🎧 I'm Listening Right Now
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ejhbuv0iagr9btp0oryaq3yp1&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ejhbuv0iagr9btp0oryaq3yp1&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false">
-  </a>
-</p>
-
 
 ---
 
@@ -73,3 +70,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulkerimCanBRY&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
+</div>
