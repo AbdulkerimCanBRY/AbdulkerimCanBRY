@@ -74,8 +74,8 @@ _Let me first introduce myself. I'm a 2nd-year Software Engineering student. I f
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulkerimCanBRY&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulkerimCanBRY&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulkerimCanBRY&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulkerimCanBRY&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
